@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "deepestdark:deep_ingot"
+    }
+  },
+  "result": {
+    "item": "deepest_dark:deep_chestplate"
+  }
+}

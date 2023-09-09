@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    " # ",
+    " ! "
+  ],
+  "key": {
+    "#": {
+      "item": "deepestdark:deep_ingot"
+    },
+    "!": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "deepest_dark:deep_sword"
+  }
+}

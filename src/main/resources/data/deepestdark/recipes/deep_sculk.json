@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "item": "deepest_dark:deep_sculk"
+  }
+}

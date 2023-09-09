@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "deep",
+  "ingredient": {
+    "item": "deepestdark:deep_sculk"
+  },
+  "result": "deepestdark:deep_ingot"
+}

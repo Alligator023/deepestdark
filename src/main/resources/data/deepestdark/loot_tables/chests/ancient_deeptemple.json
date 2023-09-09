@@ -1,0 +1,115 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "max": 39.0,
+                "min": 20.0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "deepestdark:deep_chestplate",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "max": 39.0,
+                "min": 20.0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "deepestdark:deep_sword",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "max": 39.0,
+                "min": 20.0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "deepestdark:deep_helmet",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "max": 39.0,
+                "min": 20.0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "deepestdark:deep_boots",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "max": 39.0,
+                "min": 20.0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "deepestdark:deep_leggings",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 6.0,
+        "min": 2.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:silence_armor_trim_smithing_template"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "deepestdark:chests/ancient_deeptemple"
+}
